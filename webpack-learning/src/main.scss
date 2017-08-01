@@ -1,0 +1,14 @@
+$primary: honeydew;
+
+body {
+  background-color: $primary;
+}
+
+.test {
+  background: url('./images/stub.png');
+}
+
+div > p {
+  color: red;
+}
+
